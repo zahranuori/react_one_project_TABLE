@@ -8,10 +8,11 @@ th{
 
 }
 td{
-    background-color: #03DAC5;
+    background-color: #3b9bb0;
     padding: 1rem;
     border: 3px solid #30435C;
 }
-button {
-    background-color: #30435C;
+input {
+    background-color: #76c4cd;
+    color: black;
 }
