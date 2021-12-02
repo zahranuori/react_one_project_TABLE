@@ -1,0 +1,17 @@
+table {
+    border-collapse: collapse;
+}
+th{
+    background-color: #018786;
+    padding: 2rem;
+    border: 3px solid #30435C;
+
+}
+td{
+    background-color: #03DAC5;
+    padding: 1rem;
+    border: 3px solid #30435C;
+}
+button {
+    background-color: #30435C;
+}
